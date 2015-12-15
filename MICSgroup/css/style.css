@@ -1,0 +1,121 @@
+﻿body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: url("../../images/banner.jpg") no-repeat center 30px;
+    background-color: #006EA1;
+    font-size: 1em;
+    padding:0;
+    margin:0;
+    margin-top: 10px;
+}
+.btn {
+    box-shadow: 3px 3px 3px #D5D5D5;
+    color: #666;
+    background-color: #DDD;
+    font-weight: bold;
+    font-size: 0.75em;
+    width: 35%;
+}
+.btn:hover{
+    box-shadow: 0px 0px rgba(0, 0, 0, 0.6) inset, 0px 0px 1px transparent;
+    background-color: darkblue;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+}
+input {    
+    background-color: #FFF;
+    border-top: none;
+    border-left: none;
+    border-right: 1px solid #F0F0F0;
+    border-bottom: 1px solid #F0F0F0;
+    box-shadow: inset 1px 1px 1px 0px grey;
+    color: #2420B3;
+    display: inline-block;
+    font-size: 0.875em;
+    padding: 0 10px;
+    margin: 0;
+    height: 2em;
+    width: 50%;
+}
+/* border and box shadow for button */
+.btn, .ImgBtnCalendar {    
+    border-top: 1px solid #d4d4d4;
+    border-left: 1px solid #d4d4d4;
+    border-right: 1px solid #aeaeae;
+    border-bottom: 1px solid #aeaeae;
+    box-shadow: 3px 3px 3px #D5D5D5;
+}
+
+/* Target main form table CSS with classname = tblSystem */
+table.tblSystem {
+    margin: 0 auto;
+    margin-top: 140px;
+    width: 790px;
+}
+table.tblSystem > tbody > tr > td:first-child {
+    width: 40%;
+    text-align: right;
+    padding-right: 10px;
+}
+table.tblSystem > tbody > tr > td {
+    vertical-align: middle;
+    border: 1px solid #CFCFCF;
+    padding: 5px;
+}
+table.tblSystem > tbody > tr:last-child {
+    height: 100px;
+}
+table.tblSystem > tbody > tr:last-child td {    
+    text-align: center;
+}
+table.tblSystem > tbody > tr:nth-child(2n+1){    
+    background-color: #FFF;
+}
+table.tblSystem > tbody > tr:nth-child(2n) {    
+    background-color: #FFFBD2;
+}
+
+/* Target pickdate calendar table CSS with classname = datepicker */
+
+.ImgBtnCalendar {
+    width: 30px;
+    margin-left: 5px;
+    position: fixed;
+}
+.ImgBtnCalendar:hover {
+    background-color: #F6FFED;    
+    box-shadow: inset 1px 1px 1px 0px grey;
+}
+table.datepicker {
+    font-size: 1em;
+    margin-bottom: 20px;
+    padding: 10px;
+    position: relative;
+    top: 10px;
+}
+table.datepicker a {
+    display: block;
+    text-align: center;
+    text-decoration:none;
+}
+table.datepicker a:hover {
+    background-color: #00b9ff;
+    color: #000 !important;
+    font-weight: bold;
+}
+table.datepicker tr:nth-child(2n) {
+    background-color: #FFF;
+}
+table.datepicker tr:nth-child(2n+1) {
+    background-color: #9799b5;
+}
+table.datepicker tr:nth-child(2n+1) a {
+    color: #FFF !important;
+}
+table.datepicker tr:first-child {
+    background: none;
+    font-weight: bold;
+}
+table.datepicker tr:first-child a {
+    color: #000 !important;
+}

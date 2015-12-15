@@ -1,0 +1,80 @@
+D:\Humber\Web Application Development 1 - HTTP 5101 - ONA\MICSgroup\MICSgroup\bin\roslyn\csc.exe
+D:\Humber\Web Application Development 1 - HTTP 5101 - ONA\MICSgroup\MICSgroup\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Humber\Web Application Development 1 - HTTP 5101 - ONA\MICSgroup\MICSgroup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Humber\Web Application Development 1 - HTTP 5101 - ONA\MICSgroup\MICSgroup\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Humber\Web Application Development 1 - HTTP 5101 - ONA\MICSgroup\MICSgroup\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Humber\Web Application Development 1 - HTTP 5101 - ONA\MICSgroup\MICSgroup\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Humber\Web Application Development 1 - HTTP 5101 - ONA\MICSgroup\MICSgroup\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Humber\Web Application Development 1 - HTTP 5101 - ONA\MICSgroup\MICSgroup\bin\roslyn\System.Collections.Immutable.dll
+D:\Humber\Web Application Development 1 - HTTP 5101 - ONA\MICSgroup\MICSgroup\bin\roslyn\System.Reflection.Metadata.dll
+D:\Humber\Web Application Development 1 - HTTP 5101 - ONA\MICSgroup\MICSgroup\bin\roslyn\vbc.exe
+D:\Humber\Web Application Development 1 - HTTP 5101 - ONA\MICSgroup\MICSgroup\bin\roslyn\VBCSCompiler.exe
+D:\Humber\Web Application Development 1 - HTTP 5101 - ONA\MICSgroup\MICSgroup\bin\roslyn\VBCSCompiler.exe.config
+D:\Humber\Web Application Development 1 - HTTP 5101 - ONA\MICSgroup\MICSgroup\bin\MICSgroup.dll.config
+D:\Humber\Web Application Development 1 - HTTP 5101 - ONA\MICSgroup\MICSgroup\bin\MICSgroup.dll
+D:\Humber\Web Application Development 1 - HTTP 5101 - ONA\MICSgroup\MICSgroup\bin\MICSgroup.pdb
+D:\Humber\Web Application Development 1 - HTTP 5101 - ONA\MICSgroup\MICSgroup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Humber\Web Application Development 1 - HTTP 5101 - ONA\MICSgroup\MICSgroup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Humber\Web Application Development 1 - HTTP 5101 - ONA\MICSgroup\MICSgroup\obj\Debug\MICSgroup.csprojResolveAssemblyReference.cache
+D:\Humber\Web Application Development 1 - HTTP 5101 - ONA\MICSgroup\MICSgroup\obj\Debug\MICSgroup.dll
+D:\Humber\Web Application Development 1 - HTTP 5101 - ONA\MICSgroup\MICSgroup\obj\Debug\MICSgroup.pdb
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\MICSgroup\MICSgroup\bin\roslyn\csc.exe
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\MICSgroup\MICSgroup\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\MICSgroup\MICSgroup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\MICSgroup\MICSgroup\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\MICSgroup\MICSgroup\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\MICSgroup\MICSgroup\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\MICSgroup\MICSgroup\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\MICSgroup\MICSgroup\bin\roslyn\System.Collections.Immutable.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\MICSgroup\MICSgroup\bin\roslyn\System.Reflection.Metadata.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\MICSgroup\MICSgroup\bin\roslyn\vbc.exe
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\MICSgroup\MICSgroup\bin\roslyn\VBCSCompiler.exe
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\MICSgroup\MICSgroup\bin\roslyn\VBCSCompiler.exe.config
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\MICSgroup\MICSgroup\bin\MICSgroup.dll.config
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\MICSgroup\MICSgroup\bin\MICSgroup.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\MICSgroup\MICSgroup\bin\MICSgroup.pdb
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\MICSgroup\MICSgroup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\MICSgroup\MICSgroup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\MICSgroup\MICSgroup\obj\Debug\MICSgroup.csprojResolveAssemblyReference.cache
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\MICSgroup\MICSgroup\obj\Debug\MICSgroup.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\MICSgroup\MICSgroup\obj\Debug\MICSgroup.pdb
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup\MICSgroup\bin\roslyn\csc.exe
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup\MICSgroup\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup\MICSgroup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup\MICSgroup\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup\MICSgroup\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup\MICSgroup\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup\MICSgroup\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup\MICSgroup\bin\roslyn\System.Collections.Immutable.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup\MICSgroup\bin\roslyn\System.Reflection.Metadata.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup\MICSgroup\bin\roslyn\vbc.exe
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup\MICSgroup\bin\roslyn\VBCSCompiler.exe
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup\MICSgroup\bin\roslyn\VBCSCompiler.exe.config
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup\MICSgroup\bin\MICSgroup.dll.config
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup\MICSgroup\bin\MICSgroup.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup\MICSgroup\bin\MICSgroup.pdb
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup\MICSgroup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup\MICSgroup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup\MICSgroup\obj\Debug\MICSgroup.csprojResolveAssemblyReference.cache
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup\MICSgroup\obj\Debug\MICSgroup.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup\MICSgroup\obj\Debug\MICSgroup.pdb
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup - change to Soo Ah\MICSgroup\bin\roslyn\csc.exe
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup - change to Soo Ah\MICSgroup\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup - change to Soo Ah\MICSgroup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup - change to Soo Ah\MICSgroup\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup - change to Soo Ah\MICSgroup\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup - change to Soo Ah\MICSgroup\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup - change to Soo Ah\MICSgroup\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup - change to Soo Ah\MICSgroup\bin\roslyn\System.Collections.Immutable.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup - change to Soo Ah\MICSgroup\bin\roslyn\System.Reflection.Metadata.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup - change to Soo Ah\MICSgroup\bin\roslyn\vbc.exe
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup - change to Soo Ah\MICSgroup\bin\roslyn\VBCSCompiler.exe
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup - change to Soo Ah\MICSgroup\bin\roslyn\VBCSCompiler.exe.config
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup - change to Soo Ah\MICSgroup\bin\MICSgroup.dll.config
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup - change to Soo Ah\MICSgroup\bin\MICSgroup.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup - change to Soo Ah\MICSgroup\bin\MICSgroup.pdb
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup - change to Soo Ah\MICSgroup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup - change to Soo Ah\MICSgroup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup - change to Soo Ah\MICSgroup\obj\Debug\MICSgroup.csprojResolveAssemblyReference.cache
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup - change to Soo Ah\MICSgroup\obj\Debug\MICSgroup.dll
+D:\Humber\Web-Application-Development-1-HTTP-5101-ONA\ToTeacher\MICSgroup - change to Soo Ah\MICSgroup\obj\Debug\MICSgroup.pdb
